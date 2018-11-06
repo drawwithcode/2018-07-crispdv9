@@ -52,7 +52,7 @@ function draw() {
   pop()
 
   //cuadrado titulo
-  // fill(255)
+  //fill(255)
   // rect(0,20,width/3,height/6)
 
   //texto
